@@ -28,5 +28,7 @@ aihy フレームワークの意思決定記録。時系列順に追加、過去
 - [ADR-004: `LOOP.md` を対象リポに同梱](./ADR-004-loop-md-copied.md)
 - [ADR-005: npm 公開を scoped package に](./ADR-005-scoped-npm.md)
 - [ADR-006: コメント規約を導入](./ADR-006-comment-conventions.md)
-- [ADR-007: サンプルを `examples/` に集約](./ADR-007-examples-subdirectory.md)
+- [ADR-007: サンプルを `examples/` に集約](./ADR-007-examples-subdirectory.md) *(Superseded by ADR-009)*
 - [ADR-008: ペルソナ一人称で実況出力](./ADR-008-persona-narration.md)
+- [ADR-009: 配布経路を npx + gh skill 両対応に](./ADR-009-dual-distribution.md)
+- [ADR-010: ペルソナ CRUD を独立 Skill に切り出す](./ADR-010-persona-skill-split.md)

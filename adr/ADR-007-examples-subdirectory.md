@@ -1,7 +1,7 @@
 # ADR-007: サンプルを `.aihy/examples/` サブディレクトリに集約
 
 - Date: 2026-04-23
-- Status: Accepted
+- Status: Superseded by ADR-009
 
 ## 背景
 最初は `persona.example.json` だけ配置していたが、`target.json` / `problem.md` も書き方サンプルが欲しいとなりファイル追加。`.aihy/` 直下に `*.example.*` が散乱し始めた。
