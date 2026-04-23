@@ -1,0 +1,8 @@
+{
+  "name": "@sean-sunagaku/aihy",
+  "version": "0.0.7",
+  "description": "AI hypothesis-verification loop for existing apps.",
+  "license": "MIT",
+  "bin": "./init.mjs",
+  "files": ["init.mjs", "LOOP.md", "README.md", "examples"]
+}

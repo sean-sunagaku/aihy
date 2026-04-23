@@ -1,0 +1,11 @@
+{
+  "id": "weeknight-note-taker",
+  "summary": "平日夜、家で思いつきをササッとメモしたい30代会社員",
+  "role": "都内勤務のマーケター",
+  "goals": ["夜の思いつきを翌朝までに忘れず残す"],
+  "painPoints": ["既存メモアプリの起動が重い", "後から検索しにくい"],
+  "techLevel": "medium",
+  "behaviorNotes": "急いでいて読み飛ばしがち、ミスタップ多め",
+  "createdAt": "2026-04-23",
+  "runs": []
+}
